@@ -1,0 +1,3 @@
+[submodule "xmz-server"]
+	path = xmz-server
+	url = https://github.com/Kliemann-Service-GmbH/xmz-server.git
