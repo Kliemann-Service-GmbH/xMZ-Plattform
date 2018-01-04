@@ -17,7 +17,8 @@ git clone --recursive https://github.com/Kliemann-Service-GmbH/xMZ-Plattform.git
 
 * [dieses Repository][xmz]
 * [Servertreil der xMZ-Plattform][xmz-server] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-server.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-server)
-* [Dokumentation der xMZ-Plattform (Development Version)][xmz-doc-development] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc-development.svg?branch=development)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc-development)
+* [Dokumentation der xMZ-Plattform][xmz-doc] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc)
+* [Dokumentation der xMZ-Plattform (Development Version)][xmz-doc-development] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc-development.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc-development)
 
 
 # Links
@@ -29,4 +30,3 @@ git clone --recursive https://github.com/Kliemann-Service-GmbH/xMZ-Plattform.git
 [xmz]: https://github.com/Kliemann-Service-GmbH/xMZ-Plattform
 [xmz-server]: https://github.com/Kliemann-Service-GmbH/xmz-server
 [xmz-doc-development]: https://github.com/Kliemann-Service-GmbH/xmz-doc-development
-
