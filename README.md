@@ -25,8 +25,10 @@ git clone --recursive https://github.com/Kliemann-Service-GmbH/xMZ-Plattform.git
 
 * https://github.com/Kliemann-Service-GmbH/xMZ-Plattform
 * https://github.com/Kliemann-Service-GmbH/xmz-Servertreil
+* https://github.com/Kliemann-Service-GmbH/xmz-doc
 * https://github.com/Kliemann-Service-GmbH/xmz-doc-development
 
 [xmz]: https://github.com/Kliemann-Service-GmbH/xMZ-Plattform
 [xmz-server]: https://github.com/Kliemann-Service-GmbH/xmz-server
+[xmz-doc]: https://github.com/Kliemann-Service-GmbH/xmz-doc
 [xmz-doc-development]: https://github.com/Kliemann-Service-GmbH/xmz-doc-development
