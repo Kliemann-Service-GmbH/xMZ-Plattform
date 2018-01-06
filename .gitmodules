@@ -4,3 +4,6 @@
 [submodule "xmz-doc-development"]
 	path = xmz-doc-development
 	url = https://github.com/Kliemann-Service-GmbH/xmz-doc-development.git
+[submodule "xmz-doc"]
+	path = xmz-doc
+	url = https://github.com/Kliemann-Service-GmbH/xmz-doc.git
