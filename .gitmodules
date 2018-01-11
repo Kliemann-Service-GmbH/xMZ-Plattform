@@ -7,3 +7,6 @@
 [submodule "xmz-doc"]
 	path = xmz-doc
 	url = https://github.com/Kliemann-Service-GmbH/xmz-doc.git
+[submodule "meta-xmz-mod-touch"]
+	path = meta-xmz-mod-touch
+	url = https://github.com/zzeroo/meta-xmz-mod-touch.git
