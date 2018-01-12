@@ -1,0 +1,6 @@
+language: rust
+
+install: true
+script: true
+
+

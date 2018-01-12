@@ -15,18 +15,21 @@ git clone --recursive https://github.com/Kliemann-Service-GmbH/xMZ-Plattform.git
 
 ## Komponenten
 
-* [dieses Repository][xmz]
-* [Servertreil der xMZ-Plattform][xmz-server] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-server.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-server)
-* [Dokumentation der xMZ-Plattform][xmz-doc] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc)
-* [Dokumentation der xMZ-Plattform (Development Version)][xmz-doc-development] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc-development.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc-development)
+- [dieses Repository][xmz]
+- [Servertreil der xMZ-Plattform][xmz-server] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-server.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-server)
+  - [API Dokumentation](https://kliemann-service-gmbh.github.io/xmz-server/xmz_server/index.html)
+- [Dokumentation der xMZ-Plattform][xmz-doc] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc)
+- [Dokumentation der xMZ-Plattform (Development Version)][xmz-doc-development] [![Build Status](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc-development.svg?branch=master)](https://travis-ci.org/Kliemann-Service-GmbH/xmz-doc-development)
 
 
 # Links
 
-* https://github.com/Kliemann-Service-GmbH/xMZ-Plattform
-* https://github.com/Kliemann-Service-GmbH/xmz-Servertreil
-* https://github.com/Kliemann-Service-GmbH/xmz-doc-development
+- https://github.com/Kliemann-Service-GmbH/xMZ-Plattform
+- https://github.com/Kliemann-Service-GmbH/xmz-Servertreil
+- https://github.com/Kliemann-Service-GmbH/xmz-doc
+- https://github.com/Kliemann-Service-GmbH/xmz-doc-development
 
 [xmz]: https://github.com/Kliemann-Service-GmbH/xMZ-Plattform
 [xmz-server]: https://github.com/Kliemann-Service-GmbH/xmz-server
+[xmz-doc]: https://github.com/Kliemann-Service-GmbH/xmz-doc
 [xmz-doc-development]: https://github.com/Kliemann-Service-GmbH/xmz-doc-development
