@@ -10,3 +10,9 @@
 [submodule "meta-xmz-mod-touch"]
 	path = meta-xmz-mod-touch
 	url = https://github.com/zzeroo/meta-xmz-mod-touch.git
+[submodule "xmz-gui"]
+	path = xmz-gui
+	url = https://github.com/Kliemann-Service-GmbH/xmz-gui.git
+[submodule "xmz-buildsystem"]
+	path = xmz-buildsystem
+	url = https://github.com/Kliemann-Service-GmbH/xmz-buildsystem.git
