@@ -16,3 +16,6 @@
 [submodule "xmz-buildsystem"]
 	path = xmz-buildsystem
 	url = https://github.com/Kliemann-Service-GmbH/xmz-buildsystem.git
+[submodule "xmz-test-tool"]
+	path = xmz-test-tool
+	url = https://github.com/Kliemann-Service-GmbH/xmz-test-tool.git
